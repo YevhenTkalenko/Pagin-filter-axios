@@ -1,0 +1,124 @@
+{
+  "countries": [
+    {
+      "country": "Ukraine",
+      "capital": "Kyiv",
+      "region": "Europe",
+      "population": "45 million"
+    },
+    {
+      "country": "France",
+      "capital": "Paris",
+      "region": "Europe",
+      "population": "67 million"
+    },
+    {
+      "country": "Japan",
+      "capital": "Tokyo",
+      "region": "Asia",
+      "population": "125 million"
+    },
+    {
+      "country": "Brazil",
+      "capital": "Brasilia",
+      "region": "South America",
+      "population": "213 million"
+    },
+    {
+      "country": "Nigeria",
+      "capital": "Abuja",
+      "region": "Africa",
+      "population": "211 million"
+    },
+    {
+      "country": "India",
+      "capital": "New Delhi",
+      "region": "Asia",
+      "population": "1.4 billion"
+    },
+    {
+      "country": "United States",
+      "capital": "Washington, D.C.",
+      "region": "North America",
+      "population": "331 million"
+    },
+    {
+      "country": "Russia",
+      "capital": "Moscow",
+      "region": "Europe/Asia",
+      "population": "146 million"
+    },
+    {
+      "country": "China",
+      "capital": "Beijing",
+      "region": "Asia",
+      "population": "1.4 billion"
+    },
+    {
+      "country": "Canada",
+      "capital": "Ottawa",
+      "region": "North America",
+      "population": "38 million"
+    },
+    {
+      "country": "Germany",
+      "capital": "Berlin",
+      "region": "Europe",
+      "population": "83 million"
+    },
+    {
+      "country": "United Kingdom",
+      "capital": "London",
+      "region": "Europe",
+      "population": "67 million"
+    },
+    {
+      "country": "Australia",
+      "capital": "Canberra",
+      "region": "Oceania",
+      "population": "25 million"
+    },
+    {
+      "country": "South Korea",
+      "capital": "Seoul",
+      "region": "Asia",
+      "population": "52 million"
+    },
+    {
+      "country": "Egypt",
+      "capital": "Cairo",
+      "region": "Africa",
+      "population": "102 million"
+    },
+    {
+      "country": "Argentina",
+      "capital": "Buenos Aires",
+      "region": "South America",
+      "population": "45 million"
+    },
+    {
+      "country": "Turkey",
+      "capital": "Ankara",
+      "region": "Asia/Europe",
+      "population": "84 million"
+    },
+    {
+      "country": "Italy",
+      "capital": "Rome",
+      "region": "Europe",
+      "population": "60 million"
+    },
+    {
+      "country": "Saudi Arabia",
+      "capital": "Riyadh",
+      "region": "Asia",
+      "population": "35 million"
+    },
+    {
+      "country": "South Africa",
+      "capital": "Pretoria",
+      "region": "Africa",
+      "population": "60 million"
+    }
+  ]
+}
